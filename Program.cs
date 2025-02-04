@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Blackjack-korttipeli 
+
+using System;
 using System.Collections.Generic;
 
 // Kortin määrittely
